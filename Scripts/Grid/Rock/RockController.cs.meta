@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 92846309df124d1fa32283f65008f7a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rockChestModelPrefab: {fileID: 919132149155446097, guid: d36abab66e8f47e4fa78f11f396d6706,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
